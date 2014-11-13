@@ -13,6 +13,8 @@
 		E494A7071A140E3000543BDA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E494A7061A140E3000543BDA /* Images.xcassets */; };
 		E494A70A1A140E3000543BDA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E494A7081A140E3000543BDA /* LaunchScreen.xib */; };
 		E494A7161A140E3000543BDA /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E494A7151A140E3000543BDA /* PostcardTests.swift */; };
+		E494A7201A1414C500543BDA /* la_sagrada_familia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E494A71F1A1414C500543BDA /* la_sagrada_familia.jpg */; };
+		E494A7221A1418B500543BDA /* Stamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E494A7211A1418B500543BDA /* Stamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E494A70F1A140E3000543BDA /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E494A7141A140E3000543BDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E494A7151A140E3000543BDA /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		E494A71F1A1414C500543BDA /* la_sagrada_familia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = la_sagrada_familia.jpg; sourceTree = "<group>"; };
+		E494A7211A1418B500543BDA /* Stamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Stamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E494A6FD1A140E3000543BDA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E494A7211A1418B500543BDA /* Stamp.jpg */,
+				E494A71F1A1414C500543BDA /* la_sagrada_familia.jpg */,
 				E494A6FE1A140E3000543BDA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				E494A7051A140E3000543BDA /* Main.storyboard in Resources */,
 				E494A70A1A140E3000543BDA /* LaunchScreen.xib in Resources */,
+				E494A7221A1418B500543BDA /* Stamp.jpg in Resources */,
+				E494A7201A1414C500543BDA /* la_sagrada_familia.jpg in Resources */,
 				E494A7071A140E3000543BDA /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
